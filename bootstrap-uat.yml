@@ -1,2 +1,6 @@
 uat properties,
 added new server port property
+a.url="uat url"
+b.port=2345
+c.username=uat
+d.password=urasuub34l
