@@ -1,1 +1,2 @@
 base bootstrap
+server.port=8080
