@@ -1,2 +1,6 @@
 base bootstrap
 server.port=8080
+1.url="localhost"
+2.port=1234
+3.username=default
+4.password=asyuub34l
