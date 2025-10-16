@@ -4,3 +4,4 @@ spring.redis.url="localhost"
 spring.redis.port=1234
 spring.redis.username=default
 spring.redis.password=asyuub34l
+added up and down
