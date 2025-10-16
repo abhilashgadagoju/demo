@@ -1,6 +1,6 @@
 base bootstrap
 server.port=8080
-a.url="localhost"
-b.port=1234
-c.username=default
-d.password=asyuub34l
+spring.redis.url="localhost"
+spring.redis.port=1234
+spring.redis.username=default
+spring.redis.password=asyuub34l

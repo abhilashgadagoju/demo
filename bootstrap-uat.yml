@@ -1,6 +1,6 @@
 uat properties,
 added new server port property
-a.url="uat url"
-b.port=2345
-c.username=uat
-d.password=urasuub34l
+spring.redis.url="uat url"
+spring.redis.port=2345
+spring.redis.username=uat
+spring.redis.password=urasuub34l
