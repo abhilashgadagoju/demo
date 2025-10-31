@@ -7,3 +7,4 @@ spring.redis.password=urasuub34l
 added rebase changes in uat
 rebase megre to main vise versa
 rebase without megre with continue rebase
+continue rebase won't work without megre conflict
