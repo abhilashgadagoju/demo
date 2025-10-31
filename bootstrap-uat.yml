@@ -4,3 +4,4 @@ spring.redis.url="uat url"
 spring.redis.port=2345
 spring.redis.username=uat
 spring.redis.password=urasuub34l
+added rebase changes in uat
