@@ -11,3 +11,4 @@ test for rebase
 try rebase second attempt
 added rebased changes in thrid attempt
 rebase megre vice versa
+rebase with conlicts in remote
