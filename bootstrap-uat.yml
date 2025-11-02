@@ -8,3 +8,5 @@ to rebase take pull of target branch to get new push form youre friends
 and rebase current branch onto target branch
 and resolve megre conflicts if any and remove .orgil file if any
 and then megre curent branch to target branch and then push
+--
+Create pr with merge conflicts
